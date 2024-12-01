@@ -82,4 +82,3 @@ watchdog==6.0.0
 Werkzeug==3.0.4
 wordcloud==1.9.4
 WTForms==3.2.1
-matplotlib
